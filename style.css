@@ -1,0 +1,39 @@
+.footer{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    background-color: dimgrey;
+    color: lightcoral;
+    line-height: 3;
+    font-size: 18px;
+}
+
+#h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#h4{
+    font-family:monospace;
+    font-weight:lighter;
+    font-style:initial;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: coral;
+}
+
+img{
+    width: fit-content;
+    border-radius: 5px;
+    padding: 2px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
